@@ -1,0 +1,3 @@
+Savings,1001,John Doe,1500.75,0.05
+Checking,1002,Jane Smith,2500.50,200.00
+FixedDeposit,1003,Robert Brown,3000.00,0.03,12
