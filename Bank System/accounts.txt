@@ -1,3 +1,0 @@
-Savings,101,John Wick,1500.75,0.05
-Checking,202,Stanley Ipkiss ,2500.50,200.00
-FixedDeposit,303,Robert De Niro,3000.00,0.03,12
